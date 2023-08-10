@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solutions/services_01_solution.md",
+                "file": "CKA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solutions/services_01_solution.md",
+                "file": "CKA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solutions/services_01_solution.md",
+                "file": "CKA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "solutions/services_01_solution.md"
+                "file": "CKA.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "521f0bf46ff1c1d9",
+  "active": "e8dded379603e075",
   "lastOpenFiles": [
     "translated_CKA.md",
+    "CKA.md",
+    "solutions/services_01_solution.md",
     "services_01.md",
     "replicaset_03.md",
     "replicaset_02.md",
     "replicaset_01.md",
     "pods_01.md",
     "killing_containers.md",
-    "CKA.md",
-    "solutions/services_01_solution.md",
     "solutions/replicaset_03_solution.md",
     "solutions/replicaset_02_solution.md",
     "solutions/replicaset_01_solution.md",

@@ -1,5 +1,4 @@
-# CKA (administrateur certifié Kubernetes)
-- [CKA (Administrateur certifié Kubernetes)] (# CKA-certifié-Kubernetes-adminrator)- [Configuration] (# Configuration)- [Pods] (# Pods)- [Dépannage Pods] (# Dépannage-pods)- [Espaces de noms] (# Espaces)- [nœuds] (# nœuds)- [Services] (# Services)- [répliques] (# répliques)- [Dépannage des répliques] (# Dépannage-replicasts)- [Déploiements] (# déploiements)- [Dépannage des déploiements] (# Dépannage des déploiements)- [planificateur] (# planificateur)- [Affinité du nœud] (# Node-Affinity)- [Étiquettes et sélecteurs] (# étiquettes et sélecteurs)- [Sélecteur de nœud] (# Node-Selector)- [Taints] (# Taints)- [limites de ressources] (# Resources-Limits)- [surveillance] (# surveillance)- [Scheduler] (# Scheduler-1)
+
 ## Installation
 * Configurez le cluster Kubernetes.Utiliser sur ce qui suit1. Minikube pour un cluster gratuit et simple2. Cluster géré (Ex, GKE, AKS)
 * Définir les alias
